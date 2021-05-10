@@ -57,7 +57,7 @@ def vercheck() -> str:
 
 
 SOURCE_STRING = """
-⚡You Can Clone Me [Here](https://heroku.com/deploy?template=https://github.com/Sur-vivor/CinderellaProBot.git)
+⚡You Can Clone Me [Here](https://heroku.com/deploy?template=https://github.com/TheWizardNetwork/TeamWizard.git)
 """
 
 
